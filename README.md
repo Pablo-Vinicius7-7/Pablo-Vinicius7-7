@@ -1,7 +1,7 @@
 ### Olá, eu sou Pablo Vinicius
 
 - 🔭 Hoje trabalho com front end desenvolvendo sites utilizando plataformas como a <b> Wix </b>e <b> Google Sites</b>
-- 🌱 Estou aprendendo: <b> Java </b> e <b> CSS3 </b>
+- 🌱 Estou aprendendo: <b> Java </b>, <b> PHP </b> e <b> Desenvolvimento Web </b>
 - 👯 Estou buscando colaborar em:  Projetos de desenvolvimento Web
 - 😄 Pronomes: ele/dele
 
